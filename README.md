@@ -53,4 +53,13 @@ _Step by step guide to becoming a modern frontend developer_
 * [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 * [Ставить или не ставить закрывающий слеш в одиночных тегах](http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html)
 
+#### Нестандартные шрифты
+* [Подключение нестандартных шрифтов. Часть первая](https://fontstorage.com/blog/about-font-face-part-one/)
+* [Подключение нестандартных шрифтов. Часть вторая](https://fontstorage.com/blog/about-font-face-part-two/)
+* [Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
 
+#### Вертикальный ритм
+* [О вёрстке вертикального ритма](https://peredelka.wordpress.com/2013/10/29/о-верстке-вертикального-ритма/)
+* [Compose to a Vertical Rhythm](https://24ways.org/2006/compose-to-a-vertical-rhythm/)
+* [Создание вертикального ритма на сайте](http://pixelgene.ru/articles/vertical-rhythm.html)
+* [Генератор вертикального ритма](https://www.gridlover.net/try)
