@@ -55,9 +55,11 @@ _Step by step guide to becoming a modern frontend developer_
 * [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 * [Ставить или не ставить закрывающий слеш в одиночных тегах](http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html)
 * [Классные иконки Дениса Сажина](https://iconka.com/ru/)
+* [Can I use?](https://caniuse.com/)
+
+#### HTML & CSS links
 * [Улучшаем опыт взаимодействия с формами](http://simonenko.su/38146501854/improving-ux-for-web-form)
 * [The Difference Between :nth-child and :nth-of-type](https://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/)
-* [Can I use?](https://caniuse.com/)
 * [Раскладка в CSS: float](https://softwaremaniacs.org/blog/2005/12/01/css-layout-float/)
 * [«Загадочные отступы» между инлайн-элементами](https://css-live.ru/articles/zagadochnye-otstupy-mezhdu-inlajn-blokami.html)
 
