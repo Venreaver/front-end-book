@@ -6,7 +6,7 @@ _Step by step guide to becoming a modern frontend developer_
 ## [Front end guide](https://github.com/grab/front-end-guide)
 
 ### HTML & CSS
-* [HTML Specification](https://www.w3.org/TR/html/)
+* [HTML Specification](https://www.w3.org/TR/html52/)
 
 ### JavaScript
 * [Free books by Dr. Axel Rauschmayer](http://exploringjs.com/)
@@ -47,11 +47,19 @@ _Step by step guide to becoming a modern frontend developer_
 * [W3C или WHATWG](https://htmlacademy.ru/shorts/11)
 * [Кодгайд: почему, зачем и как?](https://htmlacademy.ru/blog/62-codeguide-why-what-and-how)
 * [Как отличить контентное изображение от декоративного](https://htmlacademy.ru/blog/153-content-or-decor-img)
+* [Демонстрационные курсы](https://htmlacademy.ru/demos)
+* [Борьба с пробелами между блочно-строчными элементами](https://htmlacademy.ru/blog/boost/frontend/fighting-the-space-between-inline-block-elements)
 
 ### Useful links
 * [Обсуждения о правильном использовании тегов в комментариях](http://html5doctor.com/computer-says-no-to-html5-document-outline/)
 * [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 * [Ставить или не ставить закрывающий слеш в одиночных тегах](http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html)
+* [Классные иконки Дениса Сажина](https://iconka.com/ru/)
+* [Улучшаем опыт взаимодействия с формами](http://simonenko.su/38146501854/improving-ux-for-web-form)
+* [The Difference Between :nth-child and :nth-of-type](https://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/)
+* [Can I use?](https://caniuse.com/)
+* [Раскладка в CSS: float](https://softwaremaniacs.org/blog/2005/12/01/css-layout-float/)
+* [«Загадочные отступы» между инлайн-элементами](https://css-live.ru/articles/zagadochnye-otstupy-mezhdu-inlajn-blokami.html)
 
 #### Нестандартные шрифты
 * [Подключение нестандартных шрифтов. Часть первая](https://fontstorage.com/blog/about-font-face-part-one/)
@@ -63,3 +71,6 @@ _Step by step guide to becoming a modern frontend developer_
 * [Compose to a Vertical Rhythm](https://24ways.org/2006/compose-to-a-vertical-rhythm/)
 * [Создание вертикального ритма на сайте](http://pixelgene.ru/articles/vertical-rhythm.html)
 * [Генератор вертикального ритма](https://www.gridlover.net/try)
+
+#### Colors
+* [Теория цвета](https://habr.com/ru/post/189766/)
