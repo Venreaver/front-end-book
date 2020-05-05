@@ -65,6 +65,7 @@ _Step by step guide to becoming a modern frontend developer_
 * [The Difference Between :nth-child and :nth-of-type](https://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/)
 * [Раскладка в CSS: float](https://softwaremaniacs.org/blog/2005/12/01/css-layout-float/)
 * [«Загадочные отступы» между инлайн-элементами](https://css-live.ru/articles/zagadochnye-otstupy-mezhdu-inlajn-blokami.html)
+* [Quick CSS Trick: How To Center an Object Exactly In The Center](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/)
 
 #### Нестандартные шрифты
 * [Подключение нестандартных шрифтов. Часть первая](https://fontstorage.com/blog/about-font-face-part-one/)
