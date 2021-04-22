@@ -68,6 +68,8 @@ _Step by step guide to becoming a modern frontend developer_
 * [Quick CSS Trick: How To Center an Object Exactly In The Center](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/)
 * [Fluid Width Equal Height Columns](https://css-tricks.com/fluid-width-equal-height-columns/)
 * [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+* Рекомендации по правильному использованию метатегов от [Гугла](https://support.google.com/webmasters/answer/79812) и [Яндекса](https://yandex.ru/support/webmaster/controlling-robot/html.html).
+* [Мнемоники](https://dev.w3.org/html5/html-author/charref)
 
 #### Нестандартные шрифты
 * [Подключение нестандартных шрифтов. Часть первая](https://fontstorage.com/blog/about-font-face-part-one/)
