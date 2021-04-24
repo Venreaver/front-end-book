@@ -7,7 +7,7 @@ _Step by step guide to becoming a modern frontend developer_
 
 ### HTML & CSS
 * [HTML Specification](https://www.w3.org/TR/html52/)
-* [CSS Specification](https://www.w3.org/TR/CSS21/propidx.html)
+* [CSS Specification](https://www.w3.org/TR/CSS22/propidx.html)
 
 ### JavaScript
 * [Free books by Dr. Axel Rauschmayer](http://exploringjs.com/)
