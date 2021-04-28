@@ -58,6 +58,7 @@ _Step by step guide to becoming a modern frontend developer_
 * [Классные иконки Дениса Сажина](https://iconka.com/ru/)
 * [SpritePad](https://spritepad.wearekiss.com/)
 * [Can I use?](https://caniuse.com/)
+* [Инклюзивные компоненты: переключатели](https://medium.com/web-standards/toggle-buttons-a41388e80974)
 
 #### HTML & CSS links
 * [Улучшаем опыт взаимодействия с формами](http://simonenko.su/38146501854/improving-ux-for-web-form)
