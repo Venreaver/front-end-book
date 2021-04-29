@@ -50,6 +50,7 @@ _Step by step guide to becoming a modern frontend developer_
 * [Как отличить контентное изображение от декоративного](https://htmlacademy.ru/blog/153-content-or-decor-img)
 * [Демонстрационные курсы](https://htmlacademy.ru/demos)
 * [Борьба с пробелами между блочно-строчными элементами](https://htmlacademy.ru/blog/boost/frontend/fighting-the-space-between-inline-block-elements)
+* [Как проверить валидность HTML-разметки](https://htmlacademy.ru/blog/boost/tutorial/html-validation)
 
 ### Useful links
 * [Обсуждения о правильном использовании тегов в комментариях](http://html5doctor.com/computer-says-no-to-html5-document-outline/)
