@@ -51,6 +51,7 @@ _Step by step guide to becoming a modern frontend developer_
 * [Демонстрационные курсы](https://htmlacademy.ru/demos)
 * [Борьба с пробелами между блочно-строчными элементами](https://htmlacademy.ru/blog/boost/frontend/fighting-the-space-between-inline-block-elements)
 * [Как проверить валидность HTML-разметки](https://htmlacademy.ru/blog/boost/tutorial/html-validation)
+* [HTML Шорты](https://youtube.com/playlist?list=PLQJNT2fdCJngOj0mGZaTcZRyfSBTCWHe1)
 
 ### Useful links
 * [Обсуждения о правильном использовании тегов в комментариях](http://html5doctor.com/computer-says-no-to-html5-document-outline/)
@@ -77,6 +78,8 @@ _Step by step guide to becoming a modern frontend developer_
 * [Подключение нестандартных шрифтов. Часть первая](https://fontstorage.com/blog/about-font-face-part-one/)
 * [Подключение нестандартных шрифтов. Часть вторая](https://fontstorage.com/blog/about-font-face-part-two/)
 * [Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
+* [Google Fonts](https://fonts.google.com/)
+* [Коллекция бесплатных шрифтов](https://fontstorage.com/ru/)
 
 #### Вертикальный ритм
 * [О вёрстке вертикального ритма](https://peredelka.wordpress.com/2013/10/29/о-верстке-вертикального-ритма/)
