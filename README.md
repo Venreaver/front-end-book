@@ -89,3 +89,4 @@ _Step by step guide to becoming a modern frontend developer_
 
 #### Colors
 * [Теория цвета](https://habr.com/ru/post/189766/)
+* [HTML Colors](https://www.w3schools.com/html/html_colors.asp)
