@@ -73,6 +73,7 @@ _Step by step guide to becoming a modern frontend developer_
 * [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 * Рекомендации по правильному использованию метатегов от [Гугла](https://support.google.com/webmasters/answer/79812) и [Яндекса](https://yandex.ru/support/webmaster/controlling-robot/html.html).
 * [Мнемоники](https://dev.w3.org/html5/html-author/charref)
+* [Раскладка в CSS: float](https://softwaremaniacs.org/blog/2005/12/01/css-layout-float/)
 
 #### Нестандартные шрифты
 * [Подключение нестандартных шрифтов. Часть первая](https://fontstorage.com/blog/about-font-face-part-one/)
